@@ -18,7 +18,7 @@ a {text-decoration:none;}
 #headerTitle h1{font-size:36px;width:100%;height:100px;line-height:100px;color:#ffffff;user-select:none;cursor:default;
               text-align:center;position:relative;top:110px;left:-40px;font-weight:bold;font-family:'Microsoft YaHei';}
 #headerTitle h2{width:600px;position:relative;height:75px;line-height:75px;color:#ffffff;user-select:none;
-              font-weight:normal;top:120px;left:570px;font-size:24px;font-weight:bold;font-family:'Microsoft YaHei';cursor:default;}
+              font-weight:normal;top:120px;left:482px;font-size:24px;font-weight:bold;font-family:'Microsoft YaHei';cursor:default;}
 #navigator{background-color:#169fe6;height:55px;clear:both;position:relative;border:1px solid #138cca;border-left:none;border-right:none}
 #navList{width:1200px;margin:0 auto;height:55px}
 #navList li{float:left;height:55px;line-height:55px;list-style-type:none}
